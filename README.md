@@ -2,6 +2,7 @@
 <p align="center">
   <img src="digimon.png" alt="Fondo Digimon">
 </p>
+
 # Versión 1.0 del Juego
 
 En la versión 1 del juego he creado la clase `BatallaDigital`:
